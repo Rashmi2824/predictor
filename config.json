@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "gt_url": "https://github.com/codingthunder",
+    "title_name": "PredectHere",
+    "main_heading": "Predictor",
+    "main_tagline": "..Liked by Users!!..",
+    "gmail-user": "nayakrashmiranjan04@gmail.com",
+    "gmail-password": "Nayak@123"
+  }
+
+
+}
